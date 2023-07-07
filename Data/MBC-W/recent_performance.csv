@@ -1,0 +1,5 @@
+Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2022-12-14,9.03,9.03,9.0,9.0,141014,-0.03,0.03,-0.33,0.33,0.01,,,,,,-158900,,,,,,,,,,,,,,,
+2022-12-13,8.99,9.25,8.79,9.24,57513,0.25,0.46,2.71,4.98,0.23,,,,,,-17886,,,,,,,,,,,,,,,
+2022-12-12,9.5,9.5,8.19,8.5,112152,-1.0,1.31,-11.76,15.41,0.66,,,,,,-75399,,,,,,,,,,,,,,,
+2022-12-09,14.0,15.0,10.0,10.0,36753,-4.0,5.0,-40.0,50.0,2.5,,,,,,36753,,,,,,,,,,,,,,,
