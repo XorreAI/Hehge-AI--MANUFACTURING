@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-14,4.01,4.27,4.01,4.04,70795,0.03,0.26,0.74,6.44,0.13,4.61,4.58,-0.14,-0.08,-0.05,56538691,45.31,1.67,100.0,-1.0,-98.33,Strong Sell Signal,5.16,4.61,4.07,0.24,47.58,Target Volume,Expected Range,46.31,Strong Trend
 2023-08-11,4.34,4.34,4.02,4.07,45193,-0.27,0.32,-6.63,7.86,0.16,4.63,4.6,-0.12,-0.07,-0.05,56609486,45.38,0.0,100.0,-1.0,-100.0,Strong Sell Signal,5.17,4.63,4.09,0.23,47.63,Target Volume,Expected Range,46.33,Strong Trend
 2023-08-10,4.29,4.4,4.1,4.23,59853,-0.06,0.3,-1.42,6.99,0.15,4.65,4.62,-0.1,-0.06,-0.04,56654679,45.87,0.0,100.0,-1.0,-100.0,Strong Sell Signal,5.2,4.65,4.11,0.23,47.87,Target Volume,Expected Range,46.35,Strong Trend
 2023-08-09,4.36,4.46,4.3,4.3,18286,-0.06,0.16,-1.4,3.6,0.08,4.68,4.63,-0.08,-0.05,-0.03,56714532,47.11,0.0,33.33,-1.0,-33.33,Weak Sell Signal,5.27,4.68,4.09,0.25,47.97,Target Volume,Expected Range,46.36,Strong Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-24,3.15,3.15,2.96,3.0,109248,-0.15,0.19,-5.0,6.33,0.09,4.82,5.8,-0.51,-0.49,-0.02,12018724,42.84,10.0,100.0,-1.0,-90.0,Strong Sell Signal,6.63,4.82,3.0,0.75,46.56,Target Volume,Expected Range,40.97,Strong Trend
 2023-03-23,3.16,3.25,3.09,3.14,100093,-0.02,0.16,-0.64,4.94,0.08,4.84,5.9,-0.51,-0.49,-0.02,12127972,43.11,11.67,98.33,-1.0,-86.67,Strong Sell Signal,6.6,4.84,3.09,0.72,46.62,Target Volume,Expected Range,40.94,Strong Trend
 2023-03-22,3.36,3.39,3.08,3.13,73378,-0.23,0.31,-7.35,9.9,0.16,4.87,5.99,-0.52,-0.49,-0.03,12027879,43.11,13.33,100.0,-1.0,-86.67,Strong Sell Signal,6.57,4.87,3.17,0.7,46.62,Target Volume,Expected Range,40.9,Strong Trend
-2023-03-21,3.17,3.28,3.14,3.24,89144,0.07,0.14,2.16,4.32,0.07,4.89,6.09,-0.52,-0.48,-0.04,12101257,43.02,15.0,96.67,-1.0,-81.67,Strong Sell Signal,6.53,4.89,3.25,0.67,46.67,Target Volume,Expected Range,40.86,Strong Trend
