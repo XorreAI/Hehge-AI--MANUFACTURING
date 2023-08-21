@@ -1,4 +1,5 @@
 Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,SMA,EMA,MACD,MACD_Signal,MACD_Hist,OBV,DX,Aroon Up,Aroon Down,aroon_check,aroon_gap,Aroon Buying Signal,bband_upper,bband_middle,bband_lower,BBW,RSI,Volume Analysis,Value Analysis,ADX,Trend Strength
+2023-08-18,0.1,0.1,0.1,0.1,0,0.0,0.0,0.0,0.0,0.0,0.14,0.15,-0.01,-0.01,-0.0,-1570633,21.43,16.67,56.67,-1.0,-40.0,Weak Sell Signal,0.19,0.14,0.08,0.82,41.17,Target Volume,Expected Range,19.14,Absent or Weak Trend
 2023-08-17,0.1,0.1,0.1,0.1,0,0.0,0.0,0.0,0.0,0.0,0.14,0.15,-0.01,-0.01,-0.0,-1570633,21.43,18.33,58.33,-1.0,-40.0,Weak Sell Signal,0.2,0.14,0.08,0.81,41.17,Target Volume,Expected Range,19.1,Absent or Weak Trend
 2023-08-16,0.1,0.1,0.1,0.1,300,0.0,0.0,0.0,0.0,0.0,0.14,0.15,-0.01,-0.0,-0.0,-1570633,21.43,20.0,60.0,-1.0,-40.0,Weak Sell Signal,0.2,0.14,0.08,0.82,41.17,Target Volume,Expected Range,19.06,Absent or Weak Trend
 2023-08-15,0.1,0.1,0.1,0.1,10000,0.0,0.0,0.0,0.0,0.0,0.14,0.15,-0.0,-0.0,0.0,-1570633,21.43,21.67,61.67,-1.0,-40.0,Weak Sell Signal,0.2,0.14,0.08,0.82,41.17,Target Volume,Expected Range,19.02,Absent or Weak Trend
@@ -98,4 +99,3 @@ Date,Open,High,Low,Close,Volume,Change,Delta,Change_Ratio,Delta_Ratio,Variance,S
 2023-03-30,0.26,0.27,0.26,0.26,40431,-0.0,0.01,-0.04,5.0,0.01,0.57,0.47,-0.08,-0.08,-0.0,-275294,22.41,15.0,93.33,-1.0,-78.33,Strong Sell Signal,0.91,0.57,0.22,1.21,38.55,Trending High,Bullish Trend,16.78,Absent or Weak Trend
 2023-03-29,0.26,0.26,0.26,0.26,1411,0.0,0.0,0.0,0.0,0.0,0.57,0.48,-0.08,-0.08,-0.0,-234863,23.29,16.67,95.0,-1.0,-78.33,Strong Sell Signal,0.9,0.57,0.23,1.18,38.56,Trending High,Bullish Trend,16.69,Absent or Weak Trend
 2023-03-28,0.26,0.26,0.26,0.26,1849,-0.0,0.0,-1.62,1.62,0.0,0.57,0.49,-0.08,-0.08,-0.0,-234863,23.29,18.33,96.67,-1.0,-78.33,Strong Sell Signal,0.9,0.57,0.24,1.15,38.56,Trending High,Bullish Trend,16.57,Absent or Weak Trend
-2023-03-27,0.27,0.27,0.25,0.26,18592,-0.01,0.02,-2.2,6.59,0.01,0.57,0.5,-0.08,-0.08,-0.01,-233014,23.29,20.0,98.33,-1.0,-78.33,Strong Sell Signal,0.89,0.57,0.26,1.11,38.68,Trending High,Bullish Trend,16.46,Absent or Weak Trend
